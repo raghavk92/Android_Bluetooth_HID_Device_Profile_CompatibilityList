@@ -1,3 +1,4 @@
+OnePlus_ONEPLUS A5000_OnePlus 5_Not Working
 OnePlus_ONEPLUS A5010_OnePlus 5T_Not Working
 OnePlus_ONEPLUS A6000_OnePlus 6_Not Working
 Google_Pixel 3 XL_Pixel 3 XL_Working
