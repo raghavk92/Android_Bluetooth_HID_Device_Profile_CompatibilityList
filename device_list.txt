@@ -5,3 +5,4 @@ Google_Pixel 3 XL_Pixel 3 XL_Working
 OnePlus_GM1910_GM1910_Not Working
 HUAWEI_SNE-LX1_SNE-LX1_Working
 motorola_moto g(7) plus_Moto G(7) Plus_Not Working
+Fairphone_FP3_FP3_Not Working
