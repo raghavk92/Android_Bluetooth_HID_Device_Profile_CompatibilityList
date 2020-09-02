@@ -1,6 +1,7 @@
 OnePlus_ONEPLUS A5000_OnePlus 5_Not Working
 OnePlus_ONEPLUS A5010_OnePlus 5T_Not Working
 OnePlus_ONEPLUS A6000_OnePlus 6_Not Working
+OnePlus_ONEPLUS A6013_ONEPLUS A6013_Not Working
 Google_Pixel 3 XL_Pixel 3 XL_Working
 OnePlus_GM1910_GM1910_Not Working
 HUAWEI_SNE-LX1_SNE-LX1_Working
