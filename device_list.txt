@@ -1,3 +1,4 @@
+OnePlus_ONEPLUS A3003_OnePlus3T_Not Working
 OnePlus_ONEPLUS A5000_OnePlus 5_Not Working
 OnePlus_ONEPLUS A5010_OnePlus 5T_Not Working
 OnePlus_ONEPLUS A6000_OnePlus 6_Not Working
@@ -6,3 +7,6 @@ OnePlus_GM1910_GM1910_Not Working
 HUAWEI_SNE-LX1_SNE-LX1_Working
 motorola_moto g(7) plus_Moto G(7) Plus_Not Working
 Fairphone_FP3_FP3_Not Working
+Xiaomi_MI 9_MI 9_Working
+Amazon_KFONWI_KFONWI_Not Working
+Xiaomi_Redmi Note 3_Redmi Note 3_Working
