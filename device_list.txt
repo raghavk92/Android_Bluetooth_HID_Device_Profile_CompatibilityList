@@ -84,6 +84,45 @@ LGE_LM-Q720_LM-Q720_Not Working;Jun 14, 2020
 OnePlus_IN2017_IN2017_Not Working;Jun 17, 2020
 nubia_NX629J_NX629J_Not Working;Fri, Jun 19, 2020
 samsung_SM-G960N_Galaxy S9_Working;Jun 24, 2020
+motorola_moto g(7) power_Moto G(7) Power_Not Working;Jun 29, 2020
+realme_RMX2063_RMX2063_Not Working;Aug 9, 2020
+Xiaomi_Redmi Note 8_Redmi Note 8_Not Working;Aug 9, 2020
+LGE_LM-G810_LM-G810_Not Working;Aug 13, 2020
+HUAWEI_JAT-LX1_JAT-LX1_Working;Aug 21, 2020
+Sony_H4113_H4113_Not Working;Aug 23, 2020
+LGE_LM-K510_LM-K510_Not Working;Aug 25, 2020
+nubia_NX659J_NX659J_Not Working;Sep 7, 2020
+rockchip_PX5_PX5_Not Working,Sep 16, 2020
+samsung_SM-M215F_SM-M215F_Working;Sep 24, 2020
+motorola_motorola one hyper_Motorola One Hyper_Not Working;Sep 28, 2020
+OnePlus_HD1907_HD1907_Not Working;Oct 2, 2020
+motorola_motorola one hyper_Motorola One Hyper_Not Working;Oct 3, 2020
+OPPO_CPH2067_CPH2067_Not Working;Oct 3, 2020
+samsung_SM-G398FN_SM-G398FN_Working;Oct 7, 2020
+LGE_LM-X540_LM-X540_Not Working;Oct 22, 2020
+Xiaomi_Redmi Note 9 Pro_Redmi Note 9 Pro_Not Working;Oct 23, 2020
+OPPO_CPH1907_CPH1907_Not Working;Oct 25, 2020
+samsung_SM-T590_SM-T590_Working;Oct 26, 2020
+Meizu_16th_16Th_Not Working;Oct 30, 2020
+OPPO_CPH1917_CPH1917_Not Working;Oct 30, 2020
+HUAWEI_TAS-AN00_TAS-AN00_Working;Oct 30, 2020
+HUAWEI_VCE-AL00_VCE-AL00_Working;Oct 31, 2020
+Google_Pixel_Pixel_Working,Nov 1, 2020
+Xiaomi_Redmi Note 9 Pro Max_Redmi Note 9 Pro Max_Not Working;Nov 2, 2020
+Xiaomi_M2002J9G_M2002J9G_Working;Nov 3, 2020
+ONYX_Nova3_Nova3_Not Working;Nov 8, 2020
+vivo_V1824A_V1824A_(vivo IQOO)Not Working;Nov 9, 2020
+Sony_XQ-AU51_XQ-AU51_Working;Nov 15, 2020
+Xiaomi_M2006J10C_M2006J10C_Working;Nov 20, 2020
+realme_RMX1971_RMX1971_Not Working;Nov 10, 2020
+motorola_moto g(7) power_Moto G(7) Power_Not Working;Nov 25, 2020
+LGE_LM-V600_LM-V600_Not Working;Nov 27, 2020
+LGE_LGL455DL_LGL455DL_Not Working;Nov 29, 2020
+
+
+
+
+
 
 
 
