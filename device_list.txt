@@ -10,3 +10,66 @@ Fairphone_FP3_FP3_Not Working
 Xiaomi_MI 9_MI 9_Working
 Amazon_KFONWI_KFONWI_Not Working
 Xiaomi_Redmi Note 3_Redmi Note 3_Working
+OnePlus_GM1911_GM1911_Not Working;Jul 7, 2019
+Motorola_moto g(6)_moto g(6)_Not Working;Jul 16, 2019
+Xiaomi_MI 8 Lite_MI 8 Lite_Not Working;Jul 16, 2019
+Redmi_Redmi Note 7_Redmi  Note  7_Not Working;Jul 18, 2019
+Xiaomi_Mi A2 Lite_Mi A2 Lite_Not Working;Jul 18, 2019
+Xiaomi_MI A1_Mi A1_Not Working;Jul 18, 2019
+Sony_G8441_Xperia XZ1 Compact_Not Working;Jul 18, 2019
+Xiaomi_POCO F1_POCO F1_Working;Jul 19, 2019
+Google_Pixel 3a_Pixel 3a_Working;Jul 20, 2019
+Motorola_moto g(6) plus_moto g(6) plus_Not Working;Jul 21, 2019
+OnePlus_GM1917_OnePlus 7 Pro_Not Working;Jul 19, 2019
+Google_Pixel 3_Pixel 3_Working;Jul 23, 2019
+samsung_SM-T590_SM-T590_Working;Jul 23, 2019
+Sony_H4113_Xperia XA2_Not Working;Jul 23, 2019
+Nokia_Nokia 7 plus_Nokia 7 plus_Not Working;Jul 24, 2019
+Motorola_moto g(7) play_moto g(7) play_Not Working;Jul 24, 2019
+OnePlus_GM1913_GM1913_Not Working;Jul 25, 2019
+Redmi_Redmi Note 7_Redmi  Note  7_Not Working;Jul 27, 2019
+Motorola_moto g(6) plus_moto g(6) plus_Not Working;Jul 28, 2019
+Xiaomi_MI 8 Lite_MI 8 Lite_Not Working;Aug 1, 2019
+Xiaomi_Mi MIX 2_MIX 2_Not Working;Aug 2, 2019
+OnePlus_ONEPLUS A3003_OnePlus3T_Not Working;Aug 2, 2019
+Nokia_TA-1012_Nokia 8_Not Working;Aug 12, 2019
+OnePlus_ONEPLUS A6013_OnePlus 6T_Not Working;Aug 12, 2019
+Oppo_RMX1851_realme 3Pro_Not Working;Aug 23, 2019
+Xiaomi_Mi A2_Mi A2_Not Working;Aug 29, 2019
+Huawei_LYA-L29_HUAWEI Mate 20 Pro_Working;Aug 30, 2019
+Xiaomi_Mi A2 Lite_Mi A2 Lite_Not Working;Sep 2, 2019
+OnePlus_ONEPLUS A6003_OnePlus 6_Not Working;Sep 5, 2019
+Samsung_SM-G965F_Galaxy S9+_Working;Sep 19, 2019
+Blackshark_SKW-H0_Black Shark 2_Not Working;Sep 19, 2019
+Xiaomi_POCO F1_POCO F1_Not Working;Oct 19, 2019
+Huawei_ELE-L29_HUAWEI P30_Working;Nov 14, 2019
+bq_Aquaris X2_Aquaris X2_Not Working;Nov 22, 2019
+Xiaomi_Mi A3_Mi A3_Not Working;Dec 5, 2019
+Nokia_TA-1012_Nokia 8_Not Working;Dec 12, 2019
+Nokia_Nokia 7.1_Nokia 7.1_Not Working;Dec 16, 2019
+LGE_LM-G820_LG G8 ThinQ\xe2\x84\xa2_Not Working;Dec 26, 2019
+Sony_G8142_Xperia XZ Premium_Not Working;Jan 1, 2020
+OnePlus_HD1903_HD1903_Not Working;Jan 12, 2020
+Samsung_SM-A705MN_Galaxy A70_Working;Feb 9, 2020
+Motorola_Moto Z (2)_Moto Z (2) Force_Not Working;Feb 9, 2020
+Huawei_JSN-L23_Honor 8X_Working;Feb 10, 2020
+Motorola_motorola one_Motorola one_Not Working;Feb 10, 2020
+Nokia_Nokia 7.2_Nokia 7.2_Not Working;Feb 14, 2020
+Samsung_SM-N975F_Galaxy Note10+_Working;Mar 21, 2020
+Oppo_CPH1955_K3_Not Working;Mar 23, 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
