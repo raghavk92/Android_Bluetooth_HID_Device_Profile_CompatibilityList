@@ -49,6 +49,13 @@ Nokia_TA-1012_Nokia 8_Not Working;Dec 12, 2019
 Nokia_Nokia 7.1_Nokia 7.1_Not Working;Dec 16, 2019
 LGE_LM-G820_LG G8 ThinQ\xe2\x84\xa2_Not Working;Dec 26, 2019
 Sony_G8142_Xperia XZ Premium_Not Working;Jan 1, 2020
+Sony_Xperia Z2 Tablet WiFi_Xperia Z2 Tablet WiFi_Working;Mar 29, 2020
+LGE_LM-X320_Aristo 4+_Not Working;Apr 1, 2020
+OPPO_CPH1937_CPH1937_Not Working;Apr 2, 2020
+Lenovo_Lenovo L78071_Lenovo L78071_Not Working;Apr 4, 2020
+meizu_16s_16S_Not Working;Apr 7, 2020
+motorola_moto x4_Moto X4_Not Working;Apr 10, 2020
+realme_RMX1931_RMX1931_Not Working;Apr 13, 2020
 OnePlus_HD1903_HD1903_Not Working;Jan 12, 2020
 Samsung_SM-A705MN_Galaxy A70_Working;Feb 9, 2020
 Motorola_Moto Z (2)_Moto Z (2) Force_Not Working;Feb 9, 2020
@@ -57,6 +64,34 @@ Motorola_motorola one_Motorola one_Not Working;Feb 10, 2020
 Nokia_Nokia 7.2_Nokia 7.2_Not Working;Feb 14, 2020
 Samsung_SM-N975F_Galaxy Note10+_Working;Mar 21, 2020
 Oppo_CPH1955_K3_Not Working;Mar 23, 2020
+LGE_LM-V350_LG V35 ThinQ_Not Working;Mar 27, 2020
+motorola_moto g(7)_Moto G(7)_Not Working;Apr 22, 2020 
+asus_ASUS_X00TD_ASUS_X00TD_Not Working; Apr 23, 2020
+OnePlus_GM1900_GM1900_Not Working;May 1, 2020
+samsung_SM-G960F_Galaxy S9_Working;May 18, 2020
+LGE_LM-V350_LM-V350_Not Working,May 24, 2020
+LGE_LM-X420_LM-X420_Not Working;May 27, 2020
+OnePlus_HD1901_HD1901_Not Working;May 29, 2020
+LGE_LM-Q720_LM-Q720_Not Working;May 31, 2020
+Sony_H3223_H3223_Not Working;Jun 3, 2020
+ZTE_Blade A7 2019-T_Blade A7 2019-T_Working;Jun 3, 2020
+ZTE_Z6621O_Z6621O_Not Working;Jun 4, 2020
+Yulong_cp3705A_Cp3705A_Not Working;Jun 4, 2020
+asus_ASUS_I01WD_ASUS_I01WD_Not Working;Jun 6, 2020
+realme_RMX1931_RMX1931_Not Working;Jun 8, 2020
+motorola_moto e6_Moto E6_Not Working;Jun 9, 2020
+LGE_LM-Q720_LM-Q720_Not Working;Jun 14, 2020
+OnePlus_IN2017_IN2017_Not Working;Jun 17, 2020
+nubia_NX629J_NX629J_Not Working;Fri, Jun 19, 2020
+samsung_SM-G960N_Galaxy S9_Working;Jun 24, 2020
+
+
+
+
+
+
+
+
 
 
 
