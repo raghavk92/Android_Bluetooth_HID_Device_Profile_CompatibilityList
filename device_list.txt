@@ -20,7 +20,7 @@ Sony_G8441_Xperia XZ1 Compact_Not Working;Jul 18, 2019
 Xiaomi_POCO F1_POCO F1_Working;Jul 19, 2019
 Google_Pixel 3a_Pixel 3a_Working;Jul 20, 2019
 Motorola_moto g(6) plus_moto g(6) plus_Not Working;Jul 21, 2019
-OnePlus_GM1917_OnePlus 7 Pro_Not Working;Jul 19, 2019
+OnePlus_GM1910_OnePlus 7 Pro_Working;Jun 2, 2021
 Google_Pixel 3_Pixel 3_Working;Jul 23, 2019
 samsung_SM-T590_SM-T590_Working;Jul 23, 2019
 Sony_H4113_Xperia XA2_Not Working;Jul 23, 2019
@@ -119,6 +119,7 @@ motorola_moto g(7) power_Moto G(7) Power_Not Working;Nov 25, 2020
 LGE_LM-V600_LM-V600_Not Working;Nov 27, 2020
 LGE_LGL455DL_LGL455DL_Not Working;Nov 29, 2020
 samsung_SM-M515F_SM-M515F_Working;Feb 2, 2021
+
 
 
 
