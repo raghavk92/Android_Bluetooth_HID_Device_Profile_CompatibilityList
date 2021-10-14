@@ -119,7 +119,7 @@ motorola_moto g(7) power_Moto G(7) Power_Not Working;Nov 25, 2020
 LGE_LM-V600_LM-V600_Not Working;Nov 27, 2020
 LGE_LGL455DL_LGL455DL_Not Working;Nov 29, 2020
 samsung_SM-M515F_SM-M515F_Working;Feb 2, 2021
-
+LGE_LM-K920_LM-K920_Not Working;Oct 14, 2021
 
 
 
